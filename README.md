@@ -1,3 +1,4 @@
 # rainbow-song
 
-A song about rainbows et leur coffres aux trésors
+A song about rainbows et leur coffres aux trï¿½sors
+Je veux ajouter quelque chose
